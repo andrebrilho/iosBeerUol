@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BeerApi/Views/ViewController.swift"
+            timestampString = "562643524.7971309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BeerApi.ViewController.tableView(__ObjC.UITableView, willDisplay: __ObjC.UITableViewCell, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BeerApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brilho/Desktop/BeerApi/BeerApi/Views/ViewController.swift"
+                  timestampString = "562643524.906092"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Array&lt;BeerApi.Beer&gt;&gt;) -&gt; () in closure #1 () -&gt; () in BeerApi.ViewController.tableView(__ObjC.UITableView, willDisplay: __ObjC.UITableViewCell, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BeerApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brilho/Desktop/BeerApi/BeerApi/Views/ViewController.swift"
+                  timestampString = "562643524.908882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
